@@ -1,0 +1,15 @@
+{
+  "name": "bot-futebol",
+  "version": "1.0.0",
+  "main": "bot-futebol-api.js",
+  "scripts": {
+    "start": "node bot-futebol-api.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "dependencies": {
+    "axios": "^1.7.0",
+    "express": "^4.19.0"
+  }
+}
